@@ -1,0 +1,7 @@
+<!-- public/matching-illustration.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="none"/>
+  <!-- Medical app icon -->
+  <rect x="100" y="100" width="200" height="200" rx="40" fill="#4299e1"/>
+  <path d="M180,180 L220,180 L220,160 L240,160 L240,180 L280,180 L280,200 L240,200 L240,240 L220,240 L220,200 L180,200 Z" fill="#ffffff"/>
+</svg>

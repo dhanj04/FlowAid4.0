@@ -1,0 +1,17 @@
+<!-- public/solution-illustration.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="none"/>
+  <path d="M200,350 C300,350 350,300 350,200 C350,100 300,50 200,50 C100,50 50,100 50,200 C50,300 100,350 200,350" fill="#edf2f7" opacity="0.3"/>
+  <!-- Medical kit -->
+  <rect x="80" y="150" width="100" height="70" rx="10" fill="#4299e1"/>
+  <rect x="125" y="140" width="10" height="20" fill="#4299e1"/>
+  <path d="M120,185 L140,185 L140,175 L150,175 L150,185 L170,185 L170,195 L150,195 L150,215 L140,215 L140,195 L120,195 Z" fill="#ffffff"/>
+  <!-- Phone with medical app -->
+  <rect x="220" y="120" width="70" height="120" rx="10" fill="#2c5282"/>
+  <rect x="230" y="140" width="50" height="80" rx="2" fill="#ebf8ff"/>
+  <!-- Hospital cross -->
+  <rect x="280" y="220" width="30" height="30" fill="#4299e1"/>
+  <rect x="270" y="230" width="50" height="10" fill="#4299e1"/>
+  <!-- "CARE IS ON THE WAY" sign -->
+  <rect x="110" y="240" width="130" height="40" rx="5" fill="#ffffff" stroke="#4299e1" stroke-width="2"/>
+</svg>

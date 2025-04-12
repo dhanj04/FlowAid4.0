@@ -1,0 +1,18 @@
+<!-- public/doctor-patient-illustration.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="none"/>
+  <path d="M200,350 C300,350 350,300 350,200 C350,100 300,50 200,50 C100,50 50,100 50,200 C50,300 100,350 200,350" fill="#edf2f7" opacity="0.3"/>
+  <!-- Doctor figure -->
+  <path d="M160,120 L160,280 Q180,300 220,280 L220,120 Z" fill="#4299e1"/>
+  <circle cx="190" cy="100" r="30" fill="#4a5568"/>
+  <path d="M180,100 Q170,120 190,120 Q210,120 200,100" fill="#4a5568"/>
+  <!-- Cross symbol -->
+  <path d="M185,150 L195,150 L195,170 L215,170 L215,180 L195,180 L195,200 L185,200 L185,180 L165,180 L165,170 L185,170 Z" fill="#ffffff"/>
+  <!-- Patient figure -->
+  <path d="M270,160 L290,160 L290,260 L270,260 Z" fill="#68d391"/>
+  <path d="M250,180 L310,180 L310,220 L250,220 Z" fill="#68d391"/>
+  <circle cx="280" cy="140" r="20" fill="#4a5568"/>
+  <!-- Digital interface with plus -->
+  <rect x="230" y="120" width="40" height="60" rx="5" fill="#2c5282"/>
+  <path d="M245,150 L255,150 L255,140 L258,140 L258,150 L268,150 L268,153 L258,153 L258,163 L255,163 L255,153 L245,153 Z" fill="#63b3ed"/>
+</svg>

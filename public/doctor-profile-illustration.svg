@@ -1,0 +1,28 @@
+<!-- public/doctor-profile-illustration.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" fill="none">
+  <rect width="500" height="400" fill="none"/>
+  <!-- Doctor profile section -->
+  <rect x="80" y="60" width="160" height="280" rx="10" fill="#ebf8ff"/>
+  <circle cx="160" cy="120" r="40" fill="#e2e8f0"/>
+  <path d="M140,180 L180,180 L180,170 L190,170 L190,180 L210,180 L210,190 L190,190 L190,210 L180,210 L180,190 L140,190 Z" fill="#4299e1"/>
+  
+  <path d="M140,220 C140,216 155,216 160,220 C165,216 180,216 180,220 L180,230 L140,230 Z" fill="#4299e1"/>
+  
+  <!-- Time slots -->
+  <rect x="100" y="270" width="120" height="20" fill="#fc8181" rx="3"/>
+  <rect x="100" y="300" width="120" height="20" fill="#68d391" rx="3"/>
+  
+  <!-- Admin view section -->
+  <rect x="260" y="60" width="160" height="280" rx="10" fill="#fff5f5"/>
+  
+  <rect x="280" y="100" width="120" height="30" fill="#edf2f7" rx="5"/>
+  
+  <rect x="280" y="160" width="120" height="20" fill="#edf2f7" rx="5"/>
+  
+  <rect x="280" y="210" width="30" height="40" fill="#e2e8f0" rx="2"/>
+  <rect x="320" y="210" width="30" height="40" fill="#e2e8f0" rx="2"/>
+  <rect x="360" y="210" width="30" height="40" fill="#e2e8f0" rx="2"/>
+  
+  <!-- Calendar view -->
+  <rect x="280" y="280" width="120" height="60" fill="#edf2f7" rx="5"/>
+</svg>
